@@ -1,0 +1,6 @@
+CREATE TABLE clients (
+    client_id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY NOT NULL ,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(150),
+    cpf INT NOT NULL
+);
