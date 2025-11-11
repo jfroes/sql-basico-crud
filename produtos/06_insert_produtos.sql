@@ -4,7 +4,7 @@ INSERT INTO products (nome, preco, estoque)
 VALUES ('Camisa Azul Goiaba', 199.99, 50);
 
 INSERT INTO products (nome, preco, estoque)
-VALUES ('Sapato Verde Morano', 799.99, 23);
+VALUES ('Sapato Verde Morango', 799.99, 23);
 
 INSERT INTO products (nome, preco, estoque)
 VALUES ('Chapéu Rosa Limonada', 89.99, 14);
